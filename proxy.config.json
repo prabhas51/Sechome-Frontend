@@ -1,0 +1,8 @@
+{
+	"/sechome": {
+		"target": "https://sechome-backend.cfapps.eu12.hana.ondemand.com/v1",
+		"secure": false,
+		"logLevel": "debug",
+		"changeOrigin": true
+	}
+}
